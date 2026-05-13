@@ -2,54 +2,66 @@
 title: "Résumé"
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
-rmarkdown::render(
-  "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
-  output_dir    = "resume",
-  quiet         = TRUE
-)
-```
+View the PDF Resume: resume/MedhaKAugResume.pdf
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
-
-# Professional Summary
-
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
-
-# Technical Skills
-
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+---
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
-
-# Work Experience
-
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
-
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+| Degree | Year | Institution |
+|--------|------|-------------|
+| B.S. International Business & Marketing | Present | Cal Poly Pomona |
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+# Experience
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+### Disney Internship Program, Walt Disney World
+*March 2025 - August 2025*
+-Participated in Global Team building program
+-Hands on experience within garment making/costuming 
+-Disney specific workshops in networking and career building excercises
 
 ---
+
+### Digital Marketing Trainee, Global Career Accelerator  
+*August 2024 – December 2024*  
+- Built an **e-commerce website using Shopify**  
+- Performed **SEO keyword research** to improve search visibility  
+- Created **Google Ads campaigns and social media content** for marketing initiatives  
+
+---
+
+### Fashion PR Intern, CLD PR  
+*August 2024 – December 2024*  
+- Supported **influencer marketing campaigns and outreach**  
+- Conducted **sponsorship research and brand partnerships**  
+- Collaborated with a global team on marketing projects  
+
+---
+
+# 🛠 Skills
+
+- **Marketing:** Digital Marketing, Social Media Campaigns, Branding  
+- **Analytics:** SEO Keyword Research, A/B Testing, Campaign Analysis  
+- **Tools:** Google Ads, Shopify, Excel, R, Github
+- **Class Work Skills** Financial and Managerial Accounting, International exporting + importing law, Business management and strategy, global marketing innitiatives 
+- **Languages:** Nepali (Native), English (Fluent), Hindi (Intermediate), French (Intermediate) [1](https://livecsupomona-my.sharepoint.com/personal/mkhanal_cpp_edu)%20(1).pdf)  
+
+---
+
+# Certifications
+
+- Google Analytics Essential Training – LinkedIn Learning  
+- Digital Marketing Foundations – LinkedIn Learning  
+- SEO Foundations – LinkedIn Learning  
+
+*Additional certifications available on my LinkedIn profile.*
+
+---
+
+# Summary
+
+With my experienced in cross-cultural collaboration through roles in public relations and the Disney College Program, I was able to work with diverse teams and contribute to event planning, customer engagement, and brand experiences. Demonstrating the ability to analyze market trends, optimize campaign performance, and translate data into actionable insights.
+
+I am very passionate about combining global business perspective with marketing analytics to drive effective strategies and improve business outcomes. [1](https://livecsupomona-my.sharepoint.com/personal/mkhanal_cpp_edu)%20(1).pdf)  
