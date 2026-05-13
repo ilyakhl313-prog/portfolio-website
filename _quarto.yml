@@ -17,6 +17,5 @@ format:
   html:
     theme: [flatly, theme.scss]
     toc: true
-    include-in-header: includes/gtm-head.html      # Injects GTM script into <head>
-    include-before-body: includes/gtm-body.html    # Injects GTM noscript immediately after <body> opens
+    page-layout: full    # Injects GTM noscript immediately after <body> opens
 
