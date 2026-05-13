@@ -3,12 +3,17 @@ title: "Hi, I'm Ilya"
 ---
 
 ::: {.columns}
+
 ::: {.column width="30%"}
-![](images/me.jpg{width=100% style="border-radius: 50%;"})
+images/me.jpg{width=100% style="border-radius: 50%;"}
 :::
-::: {.column width="70%" style="padding-left: 3rem;"}
-I'm an International Business and Marketing student at **Cal Poly Pomona** with a strong interest in **international business and digital marketing strategy**. I enjoy using data analytics and creativity together to understand consumer behavior and improve marketing performance.
+
+::: {.column width="70%" style="padding-left: 2rem;"}
+
+I'm an International Business and Marketing student at **Cal Poly Pomona** with a strong interest in marketing analytics and digital strategy.
+
 :::
+
 :::
 
 ## About Me
