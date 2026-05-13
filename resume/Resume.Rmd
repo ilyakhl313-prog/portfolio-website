@@ -1,7 +1,7 @@
 ---
 name: Medha
 surname: Khanal
-position: "Marketing Analytics & Digital Marketing Student"
+position: "International Business and Marketing Student"
 phone: "+1 (562) 330-8335"
 www: "ilyakhl313-prog.github.io/Medha-Portfolio"
 email: "ilyakhl313@gmail.com"

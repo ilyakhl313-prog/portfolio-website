@@ -2,8 +2,7 @@
 title: "Résumé"
 ---
 
-View the PDF Resume: resume/MedhaKAugResume.pdf
-
+[View My Resume (PDF)](resume/Resume.pdf)
 ---
 
 # Education
@@ -40,7 +39,7 @@ View the PDF Resume: resume/MedhaKAugResume.pdf
 
 ---
 
-# 🛠 Skills
+# Skills
 
 - **Marketing:** Digital Marketing, Social Media Campaigns, Branding  
 - **Analytics:** SEO Keyword Research, A/B Testing, Campaign Analysis  
