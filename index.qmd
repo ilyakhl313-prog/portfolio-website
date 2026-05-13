@@ -1,22 +1,12 @@
 ---
 title: "Hi, I'm Ilya Khanal"
 ---
-
-::: {.hero}
-# Ilya Khanal  
-### Marketing • Data • Strategy  
-
-Exploring the intersection of data-driven decision making and creative strategy in global business environments.
-
-[View My Work](strategic-marketing.qmd){.hero-button}
-:::
-
----
-
 ::: {.columns}
 
 ::: {.column width="30%"}
-![](images/me.jpg){width=100% style="border-radius: 50%;"}
+
+![](images/me.jpg){style="width:80%; max-width:300px; display:block; margin:auto; border-radius:50%;"}
+
 :::
 
 ::: {.column width="70%" style="padding-left: 2rem;"}
@@ -29,6 +19,16 @@ I'm an International Business and Marketing student at **Cal Poly Pomona** with 
 
 ---
 
+::: {.hero}
+### Global Business • Digital Marketing • Research + Analysis  
+
+Exploring the intersection of data-driven decision making and creative strategy in global business environments.
+
+[View My Work](strategic-marketing.qmd){.hero-button}
+:::
+
+---
+
 ## About Me
 
 I am currently pursuing my degree in **International Business and Marketing** at Cal Poly Pomona. Through my coursework and hands-on experiences, I have developed a strong foundation in both **digital marketing** and **data-driven decision-making**.
@@ -36,8 +36,6 @@ I am currently pursuing my degree in **International Business and Marketing** at
 ---
 
 ## What I Do
-
-::: {.cards}
 
 ::: {.card}
 ### Digital Marketing  

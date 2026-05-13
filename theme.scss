@@ -5,38 +5,35 @@ $color-secondary: #d8a7b1;
 
 $accent-1:  #b56576;
 $accent-2:  #8c5c62;
-$neutral-0: #fffafa;
-$neutral-1: #f6edef;
+$neutral-0: #ffffff;
+$neutral-1: #f8f4f5;
 $neutral-9: #2b1c1c;
 
 $font-primary: "Playfair Display", Georgia, serif;
 $font-secondary: "Cormorant Garamond", serif;
 $font-body: "Inter", "Segoe UI", sans-serif;
 
-$color-secondary-dark: darken($color-secondary, 10%);
 
 /*-- scss:rules --*/
 
+/* Base */
 body {
   font-family: $font-body;
   color: $neutral-9;
   background-color: $neutral-1;
-
   margin: 0;
   padding: 0;
-
   line-height: 1.6;
-  font-size: 1.05em;
 }
 
-/* Page width */
+/* Layout */
 main {
   max-width: 900px;
   margin: auto;
   padding: 2rem;
 }
 
-/* Headings */
+/* Typography */
 h1, h2, h3 {
   font-family: $font-primary;
   font-weight: 600;
@@ -44,36 +41,30 @@ h1, h2, h3 {
 
 h1 {
   color: $color-primary;
-  font-size: 2.3rem;
+  font-size: 2.4rem;
 }
 
 h2 {
   color: $color-primary;
-  border-bottom: 2px solid #e7d6da;
-  padding-bottom: 0.3rem;
+  margin-top: 2rem;
 }
 
 h3 {
   color: $accent-1;
 }
 
-/* Paragraphs */
-p {
-  color: $neutral-9;
-}
-
 /* Links */
 a {
   color: $accent-1;
-  font-weight: 500;
-
-  &:hover {
-    color: darken($accent-1, 10%);
-    text-decoration: underline;
-  }
+  text-decoration: none;
 }
 
-/* Navbar (super aesthetic upgrade) */
+a:hover {
+  color: #8c4f5c;
+  text-decoration: underline;
+}
+
+/* Navbar */
 .navbar {
   background-color: $color-primary !important;
 }
@@ -81,29 +72,97 @@ a {
 .navbar a {
   color: #f8e9ec !important;
   font-family: $font-secondary;
-  font-size: 1.05em;
 }
 
 .navbar a:hover {
   color: $color-secondary !important;
 }
 
-/* Callout boxes (important for your portfolio sections) */
-.callout {
-  background-color: #fff5f7;
-  border-left: 4px solid $accent-1;
-  border-radius: 8px;
-}
-
-/* Optional subtle card effect */
-section {
+/* Hero */
+.hero {
+  background: linear-gradient(135deg, #f3e4e8, #ead1d8);
+  padding: 4rem 2rem;
+  text-align: center;
+  border-radius: 12px;
   margin-bottom: 2rem;
 }
 
-/* Highlight */
-.highlight {
+.hero h1 {
+  font-size: 2.8rem;
+}
+
+.hero-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
   background-color: $accent-1;
-  color: #fff;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
+  color: white;
+  border-radius: 6px;
+}
+
+/* Cards (ONLY highlight) */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.cards a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card {
+  background: #fff5f7;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #e7d6da;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: $color-primary;
+}
+
+/* Callouts (no box look) */
+.callout {
+  background: transparent;
+  border-left: 4px solid $accent-1;
+  padding-left: 1rem;
+}
+
+/* Images */
+img {
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+.columns {
+  align-items: center;
+}
+
+.hero {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+h2 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 0.8rem;
 }

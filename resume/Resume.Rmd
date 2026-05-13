@@ -1,20 +1,30 @@
 ---
-name: Medha
-surname: Khanal
+name: Medha Khanal
 position: "International Business and Marketing Student"
+
 phone: "+1 (562) 330-8335"
-www: "ilyakhl313-prog.github.io/Medha-Portfolio"
 email: "ilyakhl313@gmail.com"
+www: "ilyakhl313-prog.github.io/Medha-Portfolio"
 github: "ilyakhl313-prog"
 linkedin: "medha-khanal"
+
 date: "`r format(Sys.time(), '%B %Y')`"
+
 output: 
   vitae::latexcv:
     theme: classic
+
 header-includes:
-   - \usepackage{enumitem}
-   - \setlist[itemize]{nosep, left=0pt}
-   - \setlist[enumerate]{nosep, left=0pt}
+  - \usepackage{xcolor}
+  - \definecolor{burgundy}{HTML}{5A2A2A}
+  - \definecolor{rose}{HTML}{B56576}
+  - \usepackage{sectsty}
+  - \sectionfont{\color{burgundy}}
+  - \subsectionfont{\color{rose}}
+  - \usepackage{titlesec}
+  - \titlespacing*{\section}{0pt}{1.2em}{0.6em}
+  - \usepackage{enumitem}
+  - \setlist[itemize]{noitemsep, topsep=0pt, leftmargin=*}
 ---
 
 ```{r setup, include=FALSE}
