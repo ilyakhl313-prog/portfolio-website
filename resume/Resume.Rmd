@@ -1,12 +1,12 @@
 ---
-name: First
-surname: Last
-position: "Your Role or Career Focus"
-phone: +1 (XXX) XXX-XXXX
-www: yourwebsite.com
-email: "you@example.com"
-github: your-github
-linkedin: your-linkedin
+name: Medha
+surname: Khanal
+position: "Marketing Analytics & Digital Marketing Student"
+phone: "+1 (562) 330-8335"
+www: "ilyakhl313-prog.github.io/Medha-Portfolio"
+email: "ilyakhl313@gmail.com"
+github: "ilyakhl313-prog"
+linkedin: "medha-khanal"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::latexcv:
@@ -20,37 +20,29 @@ header-includes:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
-if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
-  install.packages(c("tinytex","vitae","tibble"))
-}
-
-if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
-  message("► TinyTeX not found – installing")
-  tinytex::install_tinytex()        
-} else {
-  message("✓ LaTeX present – no installation needed.")
-}
-
 library(vitae)
 library(tibble)
 ```
 
 # Professional Summary
 
-Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+Culturally adept International Business and Marketing student at Cal Poly Pomona with experience in digital marketing, campaign strategy, and analytics. Skilled in SEO, Google Ads, and social media campaigns, with hands-on experience analyzing performance through Google Analytics simulations. Proven ability to collaborate across diverse teams, contribute to marketing initiatives, and translate data into actionable business insights.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+- **Web Technologies:** HTML, Quarto, Google Analytics, etc.
+- **Marketing:** Digital Marketing Strategy, Social Media Campaigns, Branding, E-commerce (Shopify), Influencer Marketing
+- **Analytics:** SEO Keyword Research, A/B Testing, Campaign Analysis, Sponsorship & Market Research
+- **Tools:** Google Ads, Google Analytics, R, Microsoft Excel
+- **Professional:** Communication, Collaboration, Leadership, Public Speaking, Cross-Cultural Skills
 
 # Education
 
 ```{r}
+
 tribble(
-  ~ Degree, ~ Year, ~ College, ~ Institution,
-  "Master of [Your Field]", "20XX – Expected Graduation 20XX", "[Your School or Department]", "[Your University]",
-  "Bachelor of [Your Field]", "20XX – 20XX", "[Your School or Department]", "[Your University]"
+  ~Degree, ~Year, ~College, ~Institution,
+  "B.S. International Business & Marketing (Senior)", "Aug 2023 – Present", "College of Business Administration", "California State Polytechnic University, Pomona"
 ) %>%
   detailed_entries(Degree, Year, College, Institution)
 ```
@@ -59,25 +51,34 @@ tribble(
 
 ```{r}
 tribble(
-  ~ Years, ~ Company, ~ Duties, ~ Title,
+  ~Years, ~Company, ~Duties, ~Title,
 
-  "Month YYYY – Month YYYY", "Company or Organization Name",
+  "March 2025 – August 2025", "Walt Disney Parks and Resorts (Disney College Program)",
   list(
-    "Summarize responsibility or achievement \\#1.",
-    "Highlight tools, technologies, or methods used.",
-    "Mention metrics, goals, or impact if possible.",
-    "Add communication or leadership responsibilities here."
+    "Participated in professional development courses covering financial analysis, company history, culture, and technology.",
+    "Collaborated with diverse international teams on company projects and events.",
+    "Supported Disney banquet events by assisting with planning and guest services.",
+    "Demonstrated strong cross-cultural communication and teamwork in a fast-paced environment."
   ),
-  "Job Title",
+  "Disney College Program Intern",
 
-  "Month YYYY – Month YYYY", "Another Company or Team",
+  "August 2024 – December 2024", "Global Career Accelerator",
   list(
-    "Led a project or team focused on [insert focus].",
-    "Collaborated cross-functionally with [departments/roles].",
-    "Managed content, campaigns, or dashboards.",
-    "Contributed to strategic planning or reporting."
+    "Designed and built a functional e-commerce website using Shopify.",
+    "Conducted keyword research and applied SEO strategies to improve search engine visibility.",
+    "Created and managed paid and organic social media content for Instagram and Facebook.",
+    "Developed and launched a paid search campaign using Google Ads, focusing on performance optimization."
   ),
-  "Job Title"
+  "Digital Marketing Trainee",
+
+  "August 2024 – December 2024", "CLD PR",
+  list(
+    "Collaborated with a global PR team to execute marketing and branding initiatives.",
+    "Sourced influencers and assisted in planning influencer marketing campaigns.",
+    "Conducted sponsorship research and managed brand outreach for events.",
+    "Maintained and tracked clothing inventory using an organized system."
+  ),
+  "Fashion PR Intern"
 
 ) %>%
   detailed_entries(
