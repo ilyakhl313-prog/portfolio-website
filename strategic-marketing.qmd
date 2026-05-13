@@ -1,203 +1,260 @@
 ---
-title: "Strategic Marketing"
+title: "Portfolio"
+format:
+  html:
+    toc: true
+    theme: cosmo
 ---
 
-# Strategic Marketing Portfolio  
-**Ilya Khanal**
+# Past Work Portfolio  
+### Ilya Khanal
 
 ---
 
-## Introduction
-
-This portfolio showcases a collection of projects demonstrating my experience in strategic marketing, data analysis, international business, and campaign development. These projects highlight my ability to apply data-driven decision making, global market analysis, and creative strategy to real-world business challenges.
+::: {.callout-note}
+This portfolio showcases my work in strategic marketing, data analysis, and global business strategy. Each project demonstrates my ability to combine analytical thinking with creative execution to drive impactful results.
+:::
 
 ---
 
 ## Integrated Digital Marketing Campaign: charity: water
 
+::: {.callout-important}
+**Focus:** Digital Campaign Strategy | Social Media | Influencer Marketing  
+**Goal:** Increase donations from college students
+:::
 
 ### Overview  
-In this project, I developed a full-scale digital marketing campaign for charity: water, focused on engaging college students and increasing donations through targeted digital strategies. The campaign integrated social media, influencer marketing, and paid advertising to drive awareness and conversions.
-
-### Strategy and Execution  
-- Targeted college students through tailored messaging and platform selection  
-- Set a campaign KPI goal of achieving $2,000 in monthly donations  
-- Designed a landing page highlighting youth engagement and impact  
-
-### Key Components  
-
-#### Social Media Strategy  
-- Developed Instagram content pillars focused on community-building, storytelling, and fundraising  
-- Created engaging posts designed to drive awareness and participation  
-
-#### Influencer Marketing  
-- Selected influencers with college-aged audiences (100k+ followers)  
-- Developed guidelines emphasizing authenticity, education, and calls to action  
-
-#### Paid Advertising Strategy  
-- Created interest-based targeting for donation campaigns  
-- Designed retargeting strategies for users interested in environmental and social causes  
-- Focused on cost-per-click efficiency and conversion optimization  
-
-#### Experiential Marketing  
-- Proposed a campus ambassador program to increase engagement  
-- Recommended on-campus activations and partnerships with student organizations  
-
-### Skills Demonstrated  
-Digital marketing strategy, audience segmentation, influencer marketing, campaign development, KPI analysis, paid advertising
+I developed a full digital campaign targeting college students using a mix of social media, influencer marketing, and paid advertising.
 
 ---
 
-## Data Analysis Project: Employee Performance and Salary Insights
+### Strategy Breakdown
 
-### Overview  
-In this independent project, I analyzed a dataset of over 700 employees to identify trends in salary distribution, job roles, tenure, performance, and gender dynamics.
+#### Social Media
+- Built content around community, storytelling, and fundraising  
+- Designed posts to highlight real-world impact  
 
-### Key Findings  
+#### Influencer Marketing
+- Targeted college-based influencers (100k+ audience)  
+- Created structured content guidelines to drive engagement  
 
-#### Salary Insights  
-- Salaries ranged from $26,000 to over $425,000  
-- Executive roles exceeded $140,000, while entry-level positions remained between $26,000–$40,000  
+#### Paid Advertising
+- Implemented interest-based targeting  
+- Built retargeting campaigns for higher conversions  
+- Optimized using cost-per-click metrics  
 
-#### Performance Trends  
-- Most employees were rated “Meets Expectations”  
-- High-performing employees were concentrated in leadership and technical roles  
-
-#### Gender Analysis  
-- Female employees held a strong presence in leadership roles and high-income brackets  
-- Differences were driven primarily by job role rather than gender  
-
-#### Workforce Distribution  
-- Most employees were in operational roles such as stocking and customer service  
-- Specialized roles were fewer but significantly higher-paying  
-
-### Strategic Insights  
-This analysis demonstrates how compensation, performance, and career progression are closely tied to role specialization and experience. It highlights the importance of data in informing compensation and workforce strategy decisions.
-
-### Skills Demonstrated  
-Data analysis, Excel, business intelligence, performance evaluation, quantitative reasoning
+#### Experiential Strategy
+- Designed a campus ambassador program  
+- Proposed campus partnerships and live activations  
 
 ---
 
-## Global Expansion Strategy: Patagonia in Kazakhstan
-
-### Overview  
-This project focused on developing a market entry strategy for Patagonia into Kazakhstan, evaluating economic, cultural, and competitive factors.
-
-### Key Analysis  
-- Alignment between sustainability values and local environmental awareness  
-- Growing demand driven by tourism and outdoor activity  
-- Strong potential supported by market and industry analysis  
-
-### Strategy Recommendation  
-- Enter through a joint venture  
-- Adapt products to extreme conditions  
-- Position the brand as premium and sustainability-driven  
-
-### Skills Demonstrated  
-Global strategy, market analysis, competitive positioning, strategic planning
+### Key Skills  
+Strategic marketing • Campaign design • Influencer marketing • Data-driven targeting
 
 ---
 
-## International Market Entry Strategy: U.S. Cookies in Argentina
+## Data Analysis Project: Employee Insights
 
-### Overview  
-This project evaluated the feasibility of launching American-style cookies with dulce de leche in Argentina.
+::: {.callout-tip}
+**Focus:** Excel Analysis | Workforce Data | Business Insights  
+**Dataset:** 700+ employees
+:::
 
-### Key Insights  
-- Strong snack culture supports demand  
-- Economic challenges include inflation and import restrictions  
-- Cultural alignment creates opportunity for localization  
+### Key Findings
 
-### Strategy Recommendation  
-- Adapt product to local taste preferences  
-- Target urban, middle-class consumers  
-- Use local partnerships to reduce barriers  
+#### Salary Insights
+- Range: $26,000 → $425,000  
+- Executives: $140K+  
+- Entry roles: $26K–$40K  
 
-### Skills Demonstrated  
-Consumer behavior analysis, market research, product adaptation, international strategy
+#### Performance Trends
+- Majority: “Meets Expectations”  
+- High performers concentrated in leadership/technical roles  
 
----
+#### Gender Insights
+- Strong female representation in leadership roles  
+- Trends driven by role—not gender  
 
-## Export Marketing Strategy: U.S. Wine in South Africa
-
-### Overview  
-This project developed a strategy for exporting premium California wine to South Africa.
-
-### Key Insights  
-- Growing demand for imported premium wines  
-- Opportunity in tourism and hospitality sectors  
-- Risks include tariffs and currency fluctuations  
-
-### Strategy Recommendation  
-- Use local distributors  
-- Focus on premium branding and experience-based marketing  
-- Mitigate risk through pricing and partnerships  
-
-### Skills Demonstrated  
-Export strategy, pricing analysis, logistics planning, financial evaluation
+#### Workforce Distribution
+- Largest roles: Customer Service, Stocking, Inventory  
+- Smaller leadership segment drives highest salaries  
 
 ---
 
-## Corporate Strategy and Financial Analysis: Apple
+### Strategic Takeaway
 
-### Overview  
-This project analyzed Apple’s global strategy and financial performance compared to competitors.
-
-### Key Analysis  
-- Strong brand positioning through innovation and differentiation  
-- Premium pricing reinforces brand value  
-- High operational efficiency supported by financial ratios  
-
-### Strategic Insights  
-- Competitive advantage driven by user experience and brand identity  
-- Financial leverage presents both opportunities and risks  
-
-### Skills Demonstrated  
-Financial analysis, competitive benchmarking, strategic evaluation
+::: {.callout-note}
+Compensation and performance are primarily influenced by **role specialization and experience**, emphasizing the importance of data-informed workforce planning.
+:::
 
 ---
 
-## International Market Strategy Case Study: Auchan
-
-### Overview  
-This case study analyzed Auchan’s decision regarding its operations in Russia during geopolitical conflict.
-
-### Key Analysis  
-- Considered financial, operational, and reputational risks  
-- Evaluated alignment with global expansion strategy  
-- Examined political and economic uncertainty  
-
-### Strategy Recommendation  
-- Maintain presence with adapted operations  
-- Expand e-commerce capabilities  
-- Improve communication with stakeholders  
-
-### Skills Demonstrated  
-Strategic decision-making, risk assessment, global business analysis
+### Key Skills  
+Data analysis • Excel • Business intelligence • Insight generation  
 
 ---
 
-## Legal and Regulatory Analysis: Edmond v. Indianapolis
+## Global Expansion Strategy: Patagonia (Kazakhstan)
 
 ### Overview  
-This project analyzed a Supreme Court case regarding the constitutionality of police roadblocks.
+Developed a strategy for expanding Patagonia into Kazakhstan by analyzing economic conditions, sustainability trends, and market potential.
 
-### Key Issue  
-Whether checkpoints without individualized suspicion violate constitutional rights  
+---
 
-### Decision  
-The Supreme Court ruled such roadblocks unconstitutional  
+### Key Insights
+- Growing demand for outdoor products  
+- Strong alignment with sustainability trends  
+- Limited competition in premium outdoor segment  
 
-### Business Implications  
-- Importance of legal and regulatory compliance  
-- Direct impact of policy on operational decisions  
+---
 
-### Skills Demonstrated  
-Legal analysis, critical thinking, policy evaluation, compliance awareness
+### Strategy
+- Enter via joint venture  
+- Adapt products to extreme climate  
+- Position as premium, sustainability-driven brand  
+
+---
+
+### Skills  
+Market analysis • Global strategy • Competitive positioning  
+
+---
+
+## International Market Entry: Cookies in Argentina
+
+### Overview  
+Evaluated launching U.S. cookies adapted with dulce de leche for the Argentinian market.
+
+---
+
+### Insights
+- Strong snack culture  
+- Economic barriers (inflation, tariffs)  
+- High cultural alignment with product  
+
+---
+
+### Strategy
+- Localize product  
+- Target urban middle-class market  
+- Leverage local partnerships  
+
+---
+
+### Skills  
+Consumer analysis • Market research • Localization strategy  
+
+---
+
+## Export Strategy: Wine to South Africa
+
+### Overview  
+Developed a plan to export premium California wine into South Africa’s growing market.
+
+---
+
+### Key Findings
+- Rising demand for premium imports  
+- Strong opportunity in tourism/hospitality  
+- Risks: currency volatility and tariffs  
+
+---
+
+### Strategy
+- Partner with local distributors  
+- Focus on premium branding  
+- Use experiential marketing (events, tastings)  
+
+---
+
+### Skills  
+Export strategy • Pricing • Financial analysis  
+
+---
+
+## Corporate Strategy Analysis: Apple
+
+### Overview  
+Analyzed Apple’s global positioning and financial performance.
+
+---
+
+### Key Insights
+- Premium pricing reinforces brand strength  
+- Strong differentiation through innovation  
+- High operational efficiency  
+
+---
+
+### Strategic Takeaway
+Apple’s success is driven by **brand identity, ecosystem integration, and innovation leadership**.
+
+---
+
+### Skills  
+Financial analysis • Competitive benchmarking • strategy  
+
+---
+
+## International Strategy Case: Auchan
+
+### Overview  
+Analyzed whether Auchan should exit or remain in the Russian market during geopolitical conflict.
+
+---
+
+### Key Considerations
+- Revenue impact  
+- Brand reputation  
+- Political risk  
+- Global strategy alignment  
+
+---
+
+### Recommendation
+- Maintain presence with adjusted operations  
+- Expand e-commerce channels  
+- Improve stakeholder communication  
+
+---
+
+### Skills  
+Decision-making • risk analysis • global strategy  
+
+---
+
+## Legal Analysis: Edmond v. Indianapolis
+
+### Overview  
+Examined a Supreme Court case on police checkpoints and constitutional rights.
+
+---
+
+### Key Issue
+Do suspicionless roadblocks violate the Fourth Amendment?
+
+---
+
+### Decision
+They were ruled unconstitutional.
+
+---
+
+### Business Implications
+- Importance of regulatory compliance  
+- Legal frameworks shape operational decisions  
+
+---
+
+### Skills  
+Legal analysis • critical thinking • policy awareness  
 
 ---
 
 ## Conclusion
 
-This portfolio reflects a diverse set of skills across marketing, analytics, international business, and strategy. These projects demonstrate my ability to analyze data, evaluate global opportunities, and design effective marketing solutions grounded in research and insight.
+::: {.callout-important}
+This portfolio demonstrates my ability to integrate **marketing strategy, data analysis, and global business thinking** to solve complex problems and deliver meaningful results.
+:::
