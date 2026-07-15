@@ -24,6 +24,8 @@ This portfolio showcases my work in strategic marketing, data analysis, and glob
 **Goal:** Increase donations from college students
 :::
 
+[View My Project (PDF)](portfolio_files/Final GCA Project.pptx.pdf){target="_blank"}
+
 ### Overview  
 I developed a full digital campaign targeting college students using a mix of social media, influencer marketing, and paid advertising.
 
@@ -62,6 +64,8 @@ Strategic marketing • Campaign design • Influencer marketing • Data-driven
 **Dataset:** 700+ employees
 :::
 
+[Download Employee Insights Excel Workbook](files/MyAnalysis.xlsx)
+
 ### Key Findings
 
 #### Salary Insights
@@ -98,6 +102,8 @@ Data analysis • Excel • Business intelligence • Insight generation
 
 ## Global Expansion Strategy: Patagonia (Kazakhstan)
 
+[View My Project (PDF)](portfolio_files/IBM 4801 Global Market Entry Strategy.pdf){target="_blank"}
+
 ### Overview  
 Developed a strategy for expanding Patagonia into Kazakhstan by analyzing economic conditions, sustainability trends, and market potential.
 
@@ -123,6 +129,8 @@ Market analysis • Global strategy • Competitive positioning
 ---
 
 ## International Market Entry: Cookies in Argentina
+
+[View My Project (PDF)](portfolio_files/Final Presentation.pdf){target="_blank"}
 
 ### Overview  
 Evaluated launching U.S. cookies adapted with dulce de leche for the Argentinian market.
@@ -150,6 +158,8 @@ Consumer analysis • Market research • Localization strategy
 
 ## Export Strategy: Wine to South Africa
 
+[View My Project (PDF)](portfolio_files/IBM 4161 Presentation.pdf){target="_blank"}
+
 ### Overview  
 Developed a plan to export premium California wine into South Africa’s growing market.
 
@@ -176,6 +186,8 @@ Export strategy • Pricing • Financial analysis
 
 ## Corporate Strategy Analysis: Apple
 
+[View My Project (PDF)](portfolio_files/Apple Group Project.pdf){target="_blank"}
+
 ### Overview  
 Analyzed Apple’s global positioning and financial performance.
 
@@ -199,6 +211,8 @@ Financial analysis • Competitive benchmarking • strategy
 ---
 
 ## International Strategy Case: Auchan
+
+[View My Project (PDF)](portfolio_files/Case Study 1 (1).pdf){target="_blank"}
 
 ### Overview  
 Analyzed whether Auchan should exit or remain in the Russian market during geopolitical conflict.
@@ -226,6 +240,8 @@ Decision-making • risk analysis • global strategy
 ---
 
 ## Legal Analysis: Edmond v. Indianapolis
+
+[View My Project (PDF)](portfolio_files/KhanalM Edmond v. Indianapolis.pdf){target="_blank"}
 
 ### Overview  
 Examined a Supreme Court case on police checkpoints and constitutional rights.
