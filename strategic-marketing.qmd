@@ -64,7 +64,7 @@ Strategic marketing • Campaign design • Influencer marketing • Data-driven
 **Dataset:** 700+ employees
 :::
 
-[Download Employee Insights Excel Workbook](files/MyAnalysis.xlsx)
+[Download Employee Insights Excel Workbook](portfolio_files/MyAnalysis.xlsx)
 
 ### Key Findings
 
